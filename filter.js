@@ -1,3 +1,3 @@
-const filter = [1,2,3,4].filter((num)=>{ return num > 3})
+const filter = [1,2,3,4].filter((num) => num > 3)
 
 console.log(filter);
